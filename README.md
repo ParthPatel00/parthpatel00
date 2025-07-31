@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F0F0F0&center=true&width=435&lines=Full-stack+React+%2B+Python+Dev;Building+AI-powered+products;Passionate+about+Solving+Real+%26+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F0F0F0&center=true&width=435&lines=Full-stack+React+%2B+Python+Dev;Building+AI-powered+products;Solving+real-world+problems+with+clean+code" alt="Typing SVG" />
+
 </p>
 
 ---

@@ -16,7 +16,16 @@
 - 💼 Looking for full-time software engineering opportunities starting June 2026.
 - ⚡ I build apps that solve real problems I face or see in the community around me (like <a href="https://ten-munches.vercel.app/" target="_blank">Tenmunches</a> and <a href="https://quiz-master-parth-patels-projects-e3c16659.vercel.app/" target="_blank" rel="noopener noreferrer">QuizMaster</a>).
 
+### 📬 Contact Me
 
+<p align="left">
+  <a href="mailto:patelsparth00@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/parth-patel-sjsu/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://patelparth.me">
+    <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+</p>
 
 ---
 #### 💻 Languages & Frameworks
@@ -84,17 +93,6 @@
 | [Tenmunches]([https://github.com/your-username/Tenmunches](https://ten-munches.vercel.app/)) | Curated food rankings with testimonials | React, Tailwind, Python, JSON |
 | [QuizMaster]([https://github.com/your-username/QuizMaster](https://quiz-master-parth-patels-projects-e3c16659.vercel.app/)) | AI-based quiz generator from PDFs | React, TypeScript, Tailwind, OpenAI |
 
-> 🧩 Click on any project for code and demos!
-
 ---
 
-### 📬 Contact Me
 
-<p align="left">
-  <a href="mailto:patelsparth00@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/parth-patel-sjsu/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://patelparth.me" target="_blank">
-  🌐 Visit My Portfolio
-</a>
-
-</p>

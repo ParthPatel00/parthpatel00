@@ -14,7 +14,7 @@
 - 🎓 I’m currently pursuing a Master's in Software Engineering at San Jose State University.
 - 🧑‍💻 I have 2 years of work experience in full-stack roles.
 - 💼 Looking for full-time software engineering opportunities starting June 2026.
-- ⚡ I build apps that solve real problems I face or see in the community around me (like [QuizMaster](https://github.com/your-username/QuizMaster) and [Tenmunches](https://github.com/your-username/Tenmunches)).
+- ⚡ I build apps that solve real problems I face or see in the community around me (like [Tenmunches]([https://github.com/your-username/Tenmunches](https://ten-munches.vercel.app/)) and [QuizMaster]([https://github.com/your-username/QuizMaster](https://quiz-master-parth-patels-projects-e3c16659.vercel.app/))).
 
 ---
 #### 💻 Languages & Frameworks

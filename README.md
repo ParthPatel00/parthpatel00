@@ -16,7 +16,6 @@
 - ⚡ I build apps that solve real problems I face or see in the community around me (like [QuizMaster](https://github.com/your-username/QuizMaster) and [Tenmunches](https://github.com/your-username/Tenmunches)).
 
 ---
-
 #### 💻 Languages & Frameworks
 
 <p align="left">
@@ -38,13 +37,18 @@
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-#### ☁️ Cloud & Backend
+#### ☁️ Cloud Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+#### 🧩 Backend Frameworks & Tools
+
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -66,7 +70,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 ---

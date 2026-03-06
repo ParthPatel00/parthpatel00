@@ -4,15 +4,17 @@ Software Engineer with 2.5 years of industry experience. Open to full-time roles
 
 ### Education
 
+MS in Software Engineering - AI Specialization (San Jose State University)
+
 BSc in Mathematics & Statistics (University of Toronto)
 
-MS in Software Engineering - AI Specialization (San Jose State University)
 
 ### Experience
 
+Research Assistant — SJSU Research Foundation _(2025–Present)_
+
 Software Engineer — Deloitte _(2022–2024)_
 
-_Research Assistant_ — SJSU Research Foundation _(2025–Present)_
 
 ### Achievements
 

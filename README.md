@@ -18,8 +18,9 @@ Software Engineer — Deloitte _(2022–2024)_
 
 ### Achievements
 
-- Awarded the Silver Dot Award at Deloitte
-- 2x hackathon winner — CalHacks 2025, Hack For Humanity 2026
+Awarded the Silver Dot Award at Deloitte
+
+2x hackathon winner — CalHacks 2025, Hack For Humanity 2026
 
 ---
 
